@@ -12,6 +12,6 @@ Scripts utilizados para editar arquivos exportados de ferramentas terceiras (Nes
 
 # OPENVAS
 Para utilizar o script de integração com o OpenVAS, é necessário fazer um scan e exportar os resultados em CSV.
-Com o arquivo de resultados do scan em CSV baixado, basta acessar a pasta ```src/``` e rodar o comando ```python3 openvas.py /caminho/para/o/arquivo.csv```.
+Com o arquivo de resultados do scan em CSV baixado, basta acessar a pasta ```src/``` e rodar o comando ```python3 edit_openvas.py /caminho/para/o/arquivo.csv```.
 O script irá alterar o arquivo para que seja possível fazer a importação do mesmo utilizando a funcionalidade de Custom Parser do GAT.
 Seguindo [esse guia](https://helpgat.zendesk.com/hc/pt/articles/360045826014-Como-configurar-e-usar-o-OpenVAS-junto-com-o-GAT), o script automatiza a seção **"Ajuste do arquivo CSV para importar no GAT"**.
