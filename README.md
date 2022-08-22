@@ -9,7 +9,7 @@ Nenhum desses scripts faz parte do produto GAT. Ou seja, não daremos nenhum tip
 # PRÉ REQUISITOS
 * Python 3.x
 * Conta ativa no GAT
-* Chave de API do GAT (https://documenter.getpostman.com/view/7858992/TzCMdoMv?version=latest)
+* Chave de API do GAT (https://documenter.getpostman.com/view/13656974/Uyxeq9LN?version=latest)
 
 # INTRODUÇÃO
 Esse projeto é dividido em 4 seções:
